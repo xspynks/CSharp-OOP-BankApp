@@ -1,0 +1,15 @@
+/home/rafael/RiderProjects/dotnet-official-tutorials/OOP-ObjectsAndClasses/OOP-ObjectsAndClasses/bin/Debug/net6.0/OOP-ObjectsAndClasses
+/home/rafael/RiderProjects/dotnet-official-tutorials/OOP-ObjectsAndClasses/OOP-ObjectsAndClasses/bin/Debug/net6.0/OOP-ObjectsAndClasses.deps.json
+/home/rafael/RiderProjects/dotnet-official-tutorials/OOP-ObjectsAndClasses/OOP-ObjectsAndClasses/bin/Debug/net6.0/OOP-ObjectsAndClasses.runtimeconfig.json
+/home/rafael/RiderProjects/dotnet-official-tutorials/OOP-ObjectsAndClasses/OOP-ObjectsAndClasses/bin/Debug/net6.0/OOP-ObjectsAndClasses.dll
+/home/rafael/RiderProjects/dotnet-official-tutorials/OOP-ObjectsAndClasses/OOP-ObjectsAndClasses/bin/Debug/net6.0/ref/OOP-ObjectsAndClasses.dll
+/home/rafael/RiderProjects/dotnet-official-tutorials/OOP-ObjectsAndClasses/OOP-ObjectsAndClasses/bin/Debug/net6.0/OOP-ObjectsAndClasses.pdb
+/home/rafael/RiderProjects/dotnet-official-tutorials/OOP-ObjectsAndClasses/OOP-ObjectsAndClasses/obj/Debug/net6.0/OOP-ObjectsAndClasses.csproj.AssemblyReference.cache
+/home/rafael/RiderProjects/dotnet-official-tutorials/OOP-ObjectsAndClasses/OOP-ObjectsAndClasses/obj/Debug/net6.0/OOP-ObjectsAndClasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/RiderProjects/dotnet-official-tutorials/OOP-ObjectsAndClasses/OOP-ObjectsAndClasses/obj/Debug/net6.0/OOP-ObjectsAndClasses.AssemblyInfoInputs.cache
+/home/rafael/RiderProjects/dotnet-official-tutorials/OOP-ObjectsAndClasses/OOP-ObjectsAndClasses/obj/Debug/net6.0/OOP-ObjectsAndClasses.AssemblyInfo.cs
+/home/rafael/RiderProjects/dotnet-official-tutorials/OOP-ObjectsAndClasses/OOP-ObjectsAndClasses/obj/Debug/net6.0/OOP-ObjectsAndClasses.csproj.CoreCompileInputs.cache
+/home/rafael/RiderProjects/dotnet-official-tutorials/OOP-ObjectsAndClasses/OOP-ObjectsAndClasses/obj/Debug/net6.0/OOP-ObjectsAndClasses.dll
+/home/rafael/RiderProjects/dotnet-official-tutorials/OOP-ObjectsAndClasses/OOP-ObjectsAndClasses/obj/Debug/net6.0/ref/OOP-ObjectsAndClasses.dll
+/home/rafael/RiderProjects/dotnet-official-tutorials/OOP-ObjectsAndClasses/OOP-ObjectsAndClasses/obj/Debug/net6.0/OOP-ObjectsAndClasses.pdb
+/home/rafael/RiderProjects/dotnet-official-tutorials/OOP-ObjectsAndClasses/OOP-ObjectsAndClasses/obj/Debug/net6.0/OOP-ObjectsAndClasses.genruntimeconfig.cache
